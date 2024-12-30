@@ -1,8 +1,8 @@
 # Math formulas
 ## Area
-- Circle: S = πR²
-- Rectangle: S = ab
-- Square: S = a²
+- 11Circle: S = πR²
+- 22Rectangle: S = ab
+- 33Square: S = a²
 
 ## Perimeter
 - Circle: P = 2πR
